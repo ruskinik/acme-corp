@@ -2,6 +2,7 @@ baseURL: https://example.org/
 languageCode: en-us
 title: ACME Corp
 theme: Eclectic
+enableEmoji: true
 author:
   email: nikoraz@gmail.com
   name: "ACME Corp"
