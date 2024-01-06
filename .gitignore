@@ -1,0 +1,8 @@
+# MacOs
+.DS_Store
+
+# Hugo
+.hugo_build.lock
+go.sum
+resources/
+public/
