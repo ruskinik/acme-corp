@@ -9,8 +9,6 @@ menu:
     weight: 100
 ---
 
-
-
 The Acme Blog
 ============
 
