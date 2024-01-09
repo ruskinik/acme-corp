@@ -8,7 +8,6 @@ menu:
     name: Blog
     weight: 100
 ---
-
 The Acme Blog
 ============
 
