@@ -1,22 +1,22 @@
 ---
 title: About Us
 date: 2024-01-01T00:00:00Z
-description: World's leading manufacturer of digital shapes. We shape the world. You live in it.
+description: >-
+  World's leading manufacturer of digital shapes. We shape the world. You live
+  in it.
 draft: false
 ---
-
-Acme Corporation&trade; is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
+Acme Corporation™ is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
 
 > We shape the world. You live in it.
 
 We provide :smile: to hundreds of happy customers.
 
-Manufacturing
---------------
+## Manufacturing
 
 At Acme Corporation, we take pride in what we create. Our manufacturing process goes through **3 different** stages of fine workmanship to give you the best possible shapes.
 
-<img style="float:right; margin: 20px;" src="draw.jpg">
+![](draw.jpg)
 
 1. **Drawing** Our shapes are drawn with precision to 1/100 of a millimeter.
    * We use advanced vector drawing tools to create our catalog.
@@ -28,31 +28,16 @@ At Acme Corporation, we take pride in what we create. Our manufacturing process 
 2. **Rasterizing** Our raster engine is world-class and keeps the vector right until it gets to our high-quality laser printers.
 3. **Delivery** Our output is hosted on the fastest of CDN with a 99.99% uptime and the bandwidth that can take care of all your load.
 
-Products
----------
+## Products
 
 We make over ***200 shapes***. The most popular of these include:
 
-Shape | Design | Description | Links
----   |  ---   |   ---       | ---
-Line | -- | Two pointy ends and a straight stretch of ink | [Line on Wikipedia](https://en.wikipedia.org/wiki/Line_(geometry))
-Circle  | &#8413; | A full round with no corners | [Circle on Wikipedia]
-Triangle  | &#9651; | Three lines with three corners |  [Triangle on Wikipedia](https://en.wikipedia.org/wiki/Triangle)
+<table><thead><tr><th>Shape</th><th>Design</th><th>Description</th><th>Links</th></tr></thead><tbody><tr><td>Line</td><td>--</td><td>Two pointy ends and a straight stretch of ink</td><td><a href="https://en.wikipedia.org/wiki/Line_(geometry)">Line on Wikipedia</a></td></tr><tr><td>Circle</td><td>⃝</td><td>A full round with no corners</td><td><a href="https://en.wikipedia.org/wiki/Circle">Circle on Wikipedia</a></td></tr><tr><td>Triangle</td><td>△</td><td>Three lines with three corners</td><td><a href="https://en.wikipedia.org/wiki/Triangle">Triangle on Wikipedia</a></td></tr></tbody></table>
 
+## Team
 
-[Circle on Wikipedia]: https://en.wikipedia.org/wiki/Circle
+Alex : Hippy Web Developer : Technophile
 
-Team
------
+Bob : Classic SysAdmin : Conservative
 
-Alex
-: Hippy Web Developer
-: Technophile
-
-Bob
-: Classic SysAdmin
-: Conservative
-
-Gabby
-: Cool Content Master
-: Cautious
+Gabby : Cool Content Master : Cautious
