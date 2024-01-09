@@ -1,11 +1,14 @@
 ---
 title: Our Manufacturing Process Part II
-date: "2019-01-02T00:00:00Z"
-tags: [manufacturing]
-categories: [square, manufacturing]
-series: [manufacturing]
+date: 2019-01-02T00:00:00Z
+tags:
+  - manufacturing
+categories:
+  - square
+  - manufacturing
+series:
+  - manufacturing
 ---
-
 The three principal machining processes are classified as turning, drilling and milling. Other operations falling into miscellaneous categories include shaping, planing, boring, broaching and sawing.[5]
 
 * Turning operations are operations that rotate the workpiece as the primary method of moving metal against the cutting tool. Lathes are the principal machine tool used in turning.
