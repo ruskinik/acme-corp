@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About ACME Corp
 date: 2024-01-01T00:00:00Z
 description: >-
   World's leading manufacturer of digital shapes. We shape the world. You live
