@@ -6,13 +6,13 @@ description: >-
   in it.
 draft: false
 ---
-Acme Corporation™ is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
+Acme Corporation™ is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, **we have it all**. Browse through our collection of various forms with different thicknesses and line styles.
 
-{{<divider>}}
+{{< divider >}}
 
 > We shape the world. You live in it.
 
-{{<divider>}}
+{{< divider >}}
 
 We provide :smile: to hundreds of happy customers.
 
