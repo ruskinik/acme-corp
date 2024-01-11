@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Acme Corporation
+title: Acme Corporation # changing this value doesn't seem to affect the site as it's defined in content/index.md
 theme: Eclectic
 enableEmoji: true
 enableGitInfo: true
