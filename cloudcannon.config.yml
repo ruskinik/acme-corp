@@ -33,6 +33,9 @@ collections_config:
     path: content/blog
     output: true
     icon: notes
+    schemas:
+      default:
+        path: schemas/post.md
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
